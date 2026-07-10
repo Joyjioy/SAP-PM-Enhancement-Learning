@@ -1,4 +1,4 @@
-# ABAP Enhancement Playground
+# ABAP SAP Enhancement Learning
 
 A local learning environment for studying SAP PM enhancement using realistic business cases, mock databases, and ABAP implementations.
 
