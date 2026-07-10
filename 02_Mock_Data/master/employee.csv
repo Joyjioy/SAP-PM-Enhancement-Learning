@@ -1,0 +1,16 @@
+USERID,NAME,ROLE,DEPARTMENT
+ADMIN,Michael Carter,SAP Administrator,IT
+ENG001,John Miller,Electrical Engineer,Electrical
+ENG002,David Wilson,Mechanical Engineer,Mechanical
+ENG003,Sarah Johnson,Reliability Engineer,Reliability
+SUP001,Robert Brown,Electrical Supervisor,Electrical
+SUP002,Emily Davis,Mechanical Supervisor,Mechanical
+TEC001,Daniel Moore,Electrical Technician,Electrical
+TEC002,James Taylor,Electrical Technician,Electrical
+TEC003,Andrew Thomas,Mechanical Technician,Mechanical
+TEC004,Olivia White,Instrument Technician,Instrumentation
+OPS001,William Harris,Operation Supervisor,Operation
+OPS002,Sophia Martin,Field Operator,Operation
+PLN001,Christopher Lee,Maintenance Planner,Planning
+SAF001,Emma Walker,Safety Officer,HSE
+MGR001,Richard Hall,Maintenance Manager,Maintenance
